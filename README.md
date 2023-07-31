@@ -1,14 +1,9 @@
-# Oh, I've been waiting for you!
-
-Welcome to my profile ^^
-
 ## About me:
 
 - living in Poland
 - 19 yo, IT high-school student
 - self-taught programming entushiast 🐳
 - (PHP + Symfony + React.js + MariaDB)^Docker = 👌🏻
-- kobayashi top
 
 <img src="https://i.pinimg.com/736x/5b/5a/a0/5b5aa041f9e6e8d291241741f0037c10.jpg" width="20%">
 
