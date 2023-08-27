@@ -1,11 +1,9 @@
 ## About me:
 
 - living in Poland
-- 19 yo, IT high-school student
+- 19 years old, IT high-school student
 - self-taught programming entushiast 🐳
-- (PHP + Symfony + React.js + MariaDB)^Docker = 👌🏻
-
-<img src="https://i.pinimg.com/736x/5b/5a/a0/5b5aa041f9e6e8d291241741f0037c10.jpg" width="20%">
+- (PHP + Symfony + React.js + MariaDB)^Docker
 
 <!-- ![jazwa](https://i.ibb.co/44cv5yM/jazwa2.jpg) -->
 
