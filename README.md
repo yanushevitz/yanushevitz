@@ -10,5 +10,3 @@
 ```
 You can't always be a strong cowboy, sometimes being an alive cowboy is just enough
 ```
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanushevitz&show_icons=true&theme=radical)
