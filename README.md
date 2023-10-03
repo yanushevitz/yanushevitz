@@ -1,3 +1,7 @@
+## Current task:
+
+Working on Submit, transmuting it into clear imageboard engine
+
 ## About me:
 
 - living in Poland
